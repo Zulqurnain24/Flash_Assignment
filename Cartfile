@@ -1,0 +1,4 @@
+#json download 
+github "Alamofire/Alamofire" ~> "4.5"
+#image download 
+github "Alamofire/AlamofireImage" ~> "3.5"
