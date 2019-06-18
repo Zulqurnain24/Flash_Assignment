@@ -1,0 +1,19 @@
+/* 
+  Vehicles.strings
+ //  Flash-Assignment
+ //
+ //  Created by Mohammad Zulqarnain on 16/06/2019.
+ //  Copyright © 2019 Mohammad Zulqarnain All rights reserved.
+ //
+*/
+
+"TITLE_LABEL" = "Name: ";
+"DESCRIPTION_LABEL" = "Description: ";
+"BATTERY_LEVEL" = "Battery Level: ";
+"TIME_STAMP" = "Date: ";
+"PRICE_LABEL" = "Price: ";
+"PRICE_TIME_LABEL" = "Price Time: ";
+"ADDRESS_LABEL" = "Address: ";
+"ALERT_TITLE" = "Alert";
+"AFFIRMATION" = "OK";
+"NETWORK_ERROR_MESSAGE" = "There is some issue with network. Please make sure you are connected to the internet";
